@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Fernando Fraga e Silva @ffs1102
+-    I'm actually working for Petrobras.
 - 👀 I’m interested in Engineering Programming.
 - 🌱 I’m currently learning Termux and Python.
 - 💞️ I’m looking to collaborate on ...
